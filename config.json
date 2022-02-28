@@ -1,11 +1,11 @@
 {
-  "ownerNumber": "62855xxx@s.whatsapp.net",
-  "botName": "Baby Bot",
-  "ownerName": "Ramlan ID",
-  "footer": "*2022 © BABYBOT*",
+  "ownerNumber": "6288220195739@s.whatsapp.net",
+  "botName": "Dikz Bot",
+  "ownerName": "Dika Store",
+  "footer": "*2022 © DIKZBOT*",
   "apikey": "BELI ATUH",
   "pathThumb": "./media/logo.jpg",
-  "sessionName": "ramlanid",
+  "sessionName": "session",
   "limitCount": 30,
   "gamewaktu": 60,
   "gcount": {
